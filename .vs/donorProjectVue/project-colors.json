@@ -5,7 +5,32 @@
       "ProjectGuid": "e876a09d-2d0e-44d2-ba6b-38a48ab19f67",
       "DisplayName": "donorprojectvue",
       "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "1a6b3b41-1396-4009-b011-67b56f8fc75c": {
+      "ProjectGuid": "1a6b3b41-1396-4009-b011-67b56f8fc75c",
+      "DisplayName": "donorProjectAPI",
+      "ColorIndex": 1
+    },
+    "4f754c6b-41eb-4d98-ad53-7de3eff80911": {
+      "ProjectGuid": "4f754c6b-41eb-4d98-ad53-7de3eff80911",
+      "DisplayName": "DataAccess",
+      "ColorIndex": 2
+    },
+    "abce3460-16f8-4594-a73c-32e0b435281b": {
+      "ProjectGuid": "abce3460-16f8-4594-a73c-32e0b435281b",
+      "DisplayName": "Business",
+      "ColorIndex": 3
+    },
+    "a1380bdf-653b-4630-a378-3ea858ae26e2": {
+      "ProjectGuid": "a1380bdf-653b-4630-a378-3ea858ae26e2",
+      "DisplayName": "Entities",
+      "ColorIndex": 4
     }
   },
-  "NextColorIndex": 1
+  "NextColorIndex": 5
 }
